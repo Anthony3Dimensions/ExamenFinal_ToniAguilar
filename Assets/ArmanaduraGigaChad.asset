@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 72cba915be5e0d746ad9eef5dcd419da, type: 3}
   m_Name: ArmanaduraGigaChad
   m_EditorClassIdentifier: 
-  itemType: 0
-  itemName: 
-  itemDescription: 
-  itemPrice: 0
-  itemSprite: {fileID: 0}
+  itemType: 1
+  itemName: Naruto
+  itemDescription: La mas fachera
+  itemPrice: -5
+  itemSprite: {fileID: 21300000, guid: bc72ad919c965334d9e8c518434f0893, type: 3}
